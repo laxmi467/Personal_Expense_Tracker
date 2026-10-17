@@ -38,6 +38,4 @@ Install Python 3 on your computer.
 ```bash
 python expense_tracker.py
 
-### Run code B
-```bash
-python EXPENSE.py
+
